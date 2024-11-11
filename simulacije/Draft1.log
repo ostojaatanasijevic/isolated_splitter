@@ -1,0 +1,24 @@
+Circuit: * Z:\home\ostoja\Elektronika\isolated_splitter\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.00489201 to 0.00489201
+Heightened Def Con from 0.0103995 to 0.0103995
+Heightened Def Con from 0.0106645 to 0.0106645
+Heightened Def Con from 0.0108895 to 0.0108895
+
+Date: Fri Nov 08 12:15:11 2024
+Total elapsed time: 6.910 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3973913
+traniter = 3973904
+tranpoints = 1137080
+accept = 842177
+rejected = 294907
+matrix size = 30
+fillins = 12
+solver = Normal
+Matrix Compiler1:     135 opcodes  0.3/0.2/[0.2]
+Matrix Compiler2: off

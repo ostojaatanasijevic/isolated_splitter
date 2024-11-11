@@ -1,0 +1,26 @@
+Circuit: * Z:\home\ostoja\Elektronika\isolated_splitter\singe_fet.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.000657003 to 0.000657005
+Heightened Def Con from 0.00374201 to 0.00374201
+Heightened Def Con from 0.00764701 to 0.00764701
+Heightened Def Con from 0.00774951 to 0.00774951
+Heightened Def Con from 0.00946951 to 0.00946951
+
+Date: Fri Nov 08 12:16:30 2024
+Total elapsed time: 6.041 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3410451
+traniter = 3410442
+tranpoints = 978666
+accept = 731305
+rejected = 247366
+matrix size = 29
+fillins = 24
+solver = Normal
+Matrix Compiler1: 2.94 KB object code size  0.4/0.2/[0.2]
+Matrix Compiler2: off  [0.2]/0.2/0.2
+
